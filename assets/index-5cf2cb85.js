@@ -1,0 +1,1 @@
+import{d as s,c as n,a as e,o as a,u as c}from"./index-0e427883.js";const r={class:"box"},i=e("div",null,"showTime",-1),m=s({__name:"index",setup(_){const o=c();function t(){o.push("/demo")}return(d,u)=>(a(),n("div",r,[i,e("div",{onClick:t},"gotoPage")]))}});export{m as default};

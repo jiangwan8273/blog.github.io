@@ -1,1 +1,0 @@
-import{d as e,c as o,o as t,a as s}from"./index-b58a4fa4.js";const c={class:"box"},a=s("iframe",{src:"https://cn.bing.com/",frameborder:"0",width:"600px",height:"800px"},null,-1),n=[a],m=e({__name:"demo",setup(r){return(_,d)=>(t(),o("div",c,n))}});export{m as default};
